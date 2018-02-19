@@ -4,7 +4,7 @@
     {
         public static string Scope = "scp";
 
-        public const string ViewDocumentScope = "ViewDocument";
+        public static string ViewDocumentScope = "ViewDocument";
 
         public const string DocumentsContainer = "documents";
 

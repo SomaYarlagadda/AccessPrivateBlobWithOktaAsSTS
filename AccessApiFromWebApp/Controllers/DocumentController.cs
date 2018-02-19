@@ -19,7 +19,7 @@ namespace OktaWebApp.Controllers
             Configuration = configuration;
         }
                
-        [HttpGet("document/id/{documentId}"), ValidateAntiForgeryToken, Authorize]
+        [HttpGet("document/id/{documentId}"), Authorize]
         public async Task<IActionResult> Id(string documentId)
         {
             if (string.IsNullOrWhiteSpace(documentId))
