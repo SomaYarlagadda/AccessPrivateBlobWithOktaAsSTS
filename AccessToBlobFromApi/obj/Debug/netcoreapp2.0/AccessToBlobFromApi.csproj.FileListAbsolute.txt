@@ -1,0 +1,11 @@
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\bin\Debug\netcoreapp2.0\AccessToBlobFromApi.deps.json
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\bin\Debug\netcoreapp2.0\AccessToBlobFromApi.runtimeconfig.json
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\bin\Debug\netcoreapp2.0\AccessToBlobFromApi.runtimeconfig.dev.json
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\bin\Debug\netcoreapp2.0\AccessToBlobFromApi.dll
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\bin\Debug\netcoreapp2.0\AccessToBlobFromApi.pdb
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\obj\Debug\netcoreapp2.0\AccessToBlobFromApi.csprojResolveAssemblyReference.cache
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\obj\Debug\netcoreapp2.0\AccessToBlobFromApi.csproj.CoreCompileInputs.cache
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\obj\Debug\netcoreapp2.0\AccessToBlobFromApi.AssemblyInfoInputs.cache
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\obj\Debug\netcoreapp2.0\AccessToBlobFromApi.AssemblyInfo.cs
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\obj\Debug\netcoreapp2.0\AccessToBlobFromApi.dll
+D:\soma.yarlagadda\MyGithub\Security\AccessToBlobFromApi\obj\Debug\netcoreapp2.0\AccessToBlobFromApi.pdb
